@@ -1,4 +1,4 @@
 # TeamSoftware
-This game is a 2D platform game about math designed by me and my team for math class.
+My team and I have designed a 2D platform game about math for our software engineering class, which is intended for use in math classes. The game provides an engaging and interactive way for students to learn math concepts and test their knowledge.
 
-Teachers can use their accounts to edit problems, test if this game is running correctly, and add or remove students' accounts. For students, they can check their progress and answer questions correctly to make sure they don't get caught by the chase thing.
+Teachers can use their accounts to manage the game, including editing problems, testing the game's functionality, and adding or removing student accounts. For students, the game offers a fun and challenging experience, where they must answer math questions correctly to avoid being caught by the game's chase mechanic. Additionally, students can track their progress within the game, helping them identify areas where they may need additional practice or support. Overall, our game offers an innovative approach to math education that is both engaging and effective.
